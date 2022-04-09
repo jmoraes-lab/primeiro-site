@@ -1,0 +1,90 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-item {
+    margin-right: 25px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.nav-link {
+    color: #242f51 !important;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.botao-azul {
+    border: none;
+    background-color: #2500f9;
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 30px;
+    border-radius: 25px;
+    
+}
+
+#try-for-free {
+    margin-left: 40px;
+}   
+
+.botao-azul:hover {
+    background-color: #fff;
+    color: #2500f9;
+    border: 1px solid #2500f9;
+}
+
+.principal-esquerda {
+    margin-top: 130px;
+    padding-left: 80px;
+}
+
+.principal-direita img {
+    width: 300px;
+}
+
+.principal-esquerda img {
+    width: 270px;
+    margin-bottom: 15px;
+}
+
+#principal h1 {
+    color: #242f51;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+#principal p {
+    color: #616368;
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+
+.botao-muted {
+    background-color: transparent;
+    border: 0;
+    font-weight: 500;
+    font-size: 14px;
+    color: #2500f9;
+}
+
+.botao-muted:hover {
+    text-decoration: underline;
+}
+
+#principal {
+    background-image: url('./img/Layer\ 5.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+
+#bolinhas {
+    background-image: url('./img/Vector\ Smart\ Object2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
