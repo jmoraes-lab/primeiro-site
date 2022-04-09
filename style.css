@@ -42,6 +42,7 @@ body {
     padding-left: 80px;
 }
 
+
 .principal-direita img {
     width: 300px;
 }
@@ -51,7 +52,26 @@ body {
     margin-bottom: 15px;
 }
 
+.principal2-esquerda img {
+    width: 550px;
+    margin-top: 50px;
+
+}
+
+
+.principal2-direita {
+    margin-top: 120px;
+}
+
+
 #principal h1 {
+    color: #242f51;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+
+#principal2 h1 {
     color: #242f51;
     font-weight: 600;
     margin-bottom: 15px;
